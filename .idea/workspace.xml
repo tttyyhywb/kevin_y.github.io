@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d5c56c4-85f0-4a0a-abe7-21cf723cf741" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/404.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/_color.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/_size.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/about-page.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/author.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/cv.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/general.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/icon-icomoon.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/index-page.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/main.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/media1080.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/media500.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/media780.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/normalize.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/override.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/photoswipe-default-skin.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/photoswipe.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/post.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/prism.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/utilities.scssc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/0.1.0'" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_data/authors.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_data/cv.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/authorinfo.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/citation_meta.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/global.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/mathjax_support.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/ogp.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/photoswipe.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/post-list-item.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/post_scripts.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_includes/twitter-meta.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_layouts/about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_layouts/compress.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_layouts/headless.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_pages/cv.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_pages/offline-warning.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-03-05-Content.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-06-YAML-Features.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-05-07-Features.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-06-08-Readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/404.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/_color.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/_size.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/about-page.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/author.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/cv.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/general.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/icon-icomoon.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/index-page.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/main.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/media1080.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/media500.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/media780.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/normalize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/override.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/photoswipe-default-skin.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/photoswipe.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/post.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/prism.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_sass/utilities.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/0.1.0'" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/Gemfile" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/Gemfile.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/YAML-Features-Redirect/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/api/posts.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/arrow-left.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/arrow-up.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/default-skin.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/default-skin.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/favicon-16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/favicon-32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/favicon-48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/favicon-62.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/johndoe.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/jwillmer.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/mountain-alternative-cover.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/mountain-cover.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/preloader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/features/Content.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/features/Features.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/features/YAML-Features.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/readme/Readme.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/css/screen.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/cv.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/icomoon.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/icomoon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/icomoon.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/fonts/icomoon.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/js/fuzzyset.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/js/global.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/js/jquery-1.12.0.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/js/jquery-ui.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/js/jquery.fitvids.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/js/nanobar.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/js/offline.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/js/photoswipe-ui-default.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/js/photoswipe.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/js/post.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/js/prism.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/media/img/2016-06-08-Readme-about-preview.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/media/img/2016-06-08-Readme-content-preview.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/media/img/2016-06-08-Readme-front-page-previewe.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/media/img/2016-06-08-Readme-post-preview.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/media/img/mountain1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/media/img/mountain2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/media/img/mountain3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/offline-warning/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/offline.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/redirects.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/api/posts.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/arrow-left.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/arrow-up.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/default-skin.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/default-skin.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon-16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon-32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon-48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/favicon-62.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/johndoe.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/jwillmer.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/mountain-alternative-cover.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/mountain-cover.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/preloader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/css/screen.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/developer-tools/bomremover/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/developer-tools/bomremover/bomremover.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/feed.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/icomoon.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/icomoon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/icomoon.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/fonts/icomoon.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/fuzzyset.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/global.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-1.12.0.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-ui.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.fitvids.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/nanobar.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/offline.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/photoswipe-ui-default.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/photoswipe.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/post.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/js/prism.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/media/img/2016-06-08-Readme-about-preview.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/media/img/2016-06-08-Readme-content-preview.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/media/img/2016-06-08-Readme-front-page-previewe.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/media/img/2016-06-08-Readme-post-preview.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/media/img/mountain1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/media/img/mountain2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/media/img/mountain3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/offline.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.19.1" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../File1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Java_project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../L86_cmbkb-service-kanban-mock" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../LV86_cmbkb-openapi-apigateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../MSC" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../candidate/Trains" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cmbkb-desktop-apigateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cmbkb-portal-apigateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cmbkb-service-auth" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cmbkb-service-kanban" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../cmbkb-service-troop-management" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../dcsp-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lv86.03_cmbkb-admin-apigateway" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lv86.03_cmbkb-servcie-announcement" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lv86.03_cmbkb-service-announcement" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lv86.03_cmbkb-service-pipeline" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lv86.03_cmbkb-service-zhaohu" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lv86_cmbkb-notification" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lv86_cmbkb-openapi-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lv86_cmbkb-service-code-commit-record" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lv86_cmbkb-service-subscription" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../lv86_cmbkb-service-timecard" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kevin_y.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kevin_y.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d5c56c4-85f0-4a0a-abe7-21cf723cf741" name="Default" comment="" />
+      <created>1549933312505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549933312505</updated>
+      <workItem from="1549933314098" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="792" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998565" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
