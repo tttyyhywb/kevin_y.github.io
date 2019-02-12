@@ -2,184 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d5c56c4-85f0-4a0a-abe7-21cf723cf741" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/404.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/_color.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/_size.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/about-page.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/author.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/cv.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/general.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/icon-icomoon.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/index-page.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/main.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/media1080.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/media500.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/media780.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/normalize.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/override.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/photoswipe-default-skin.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/photoswipe.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/post.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/prism.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/a667aad9fd6a6b5f510b177b37cf3cfb65fe7893/utilities.scssc" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/0.1.0'" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/404.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_data/authors.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_data/cv.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/authorinfo.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/citation_meta.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/global.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/mathjax_support.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/ogp.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/photoswipe.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/post-list-item.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/post_scripts.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_includes/twitter-meta.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_layouts/about.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_layouts/compress.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_layouts/headless.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_pages/cv.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_pages/offline-warning.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-03-05-Content.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-04-06-YAML-Features.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-05-07-Features.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-06-08-Readme.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/404.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/_color.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/_size.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/about-page.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/author.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/cv.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/general.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/icon-icomoon.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/index-page.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/main.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/media1080.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/media500.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/media780.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/normalize.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/override.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/photoswipe-default-skin.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/photoswipe.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/post.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/prism.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_sass/utilities.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/0.1.0'" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/Gemfile" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/Gemfile.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/YAML-Features-Redirect/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/about.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/api/posts.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/arrow-left.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/arrow-up.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/default-skin.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/default-skin.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/favicon-16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/favicon-32.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/favicon-48.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/favicon-62.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/johndoe.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/jwillmer.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/mountain-alternative-cover.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/mountain-cover.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/preloader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/features/Content.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/features/Features.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/features/YAML-Features.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/blog/readme/Readme.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/css/screen.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/cv.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/fonts/icomoon.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/fonts/icomoon.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/fonts/icomoon.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/fonts/icomoon.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/js/fuzzyset.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/js/global.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/js/jquery-1.12.0.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/js/jquery-ui.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/js/jquery.fitvids.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/js/nanobar.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/js/offline.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/js/photoswipe-ui-default.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/js/photoswipe.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/js/post.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/js/prism.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/media/img/2016-06-08-Readme-about-preview.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/media/img/2016-06-08-Readme-content-preview.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/media/img/2016-06-08-Readme-front-page-previewe.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/media/img/2016-06-08-Readme-post-preview.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/media/img/mountain1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/media/img/mountain2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/media/img/mountain3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/offline-warning/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/offline.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/redirects.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/robots.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/api/posts.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/arrow-left.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/arrow-up.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/default-skin.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/default-skin.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-16.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-32.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-48.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-62.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/johndoe.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/jwillmer.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/mountain-alternative-cover.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/mountain-cover.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/preloader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/screen.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/developer-tools/bomremover/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/developer-tools/bomremover/bomremover.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/fuzzyset.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/global.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-1.12.0.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-ui.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.fitvids.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/nanobar.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/offline.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/photoswipe-ui-default.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/photoswipe.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/post.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/prism.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/media/img/2016-06-08-Readme-about-preview.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/media/img/2016-06-08-Readme-content-preview.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/media/img/2016-06-08-Readme-front-page-previewe.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/media/img/2016-06-08-Readme-post-preview.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/media/img/mountain1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/media/img/mountain2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/media/img/mountain3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/offline.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -386,12 +210,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549933312505</updated>
-      <workItem from="1549933314098" duration="62000" />
+      <workItem from="1549933314098" duration="336000" />
     </task>
+    <task id="LOCAL-00001" summary="change config">
+      <created>1549933478659</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549933478659</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62000" />
+    <option name="totallyTimeSpent" value="336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="792" extended-state="6" />
@@ -430,6 +262,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change config" />
+    <option name="LAST_COMMIT_MESSAGE" value="change config" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
